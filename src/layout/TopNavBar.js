@@ -26,7 +26,7 @@ export default function TopNavBar() {
         <Toolbar>
           <Button color="inherit" href='/jewelry-and-accessories'>Jewelry & Accessories</Button>
           <Button color="inherit" href='/clothing-and-shoes'>Clothing & Shoes</Button>
-          <Button color="inherit">Home & Living</Button>
+          <Button color="inherit" href='/home-and-living'>Home & Living</Button>
           <Button color="inherit">Toys & Entertainment</Button>
           <Button color="inherit">Art & Collectibles</Button>
           <Button color="inherit">Craft Supplies & Tools</Button>
